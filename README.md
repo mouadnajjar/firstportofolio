@@ -62,4 +62,4 @@ Feel free to fork the repository, create a branch, and submit pull requests. Con
 
 ---
 
-This should give you a solid foundation for your **First Portfolio** project. Let me know if you need any adjustments or additions!
+
